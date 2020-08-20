@@ -18,5 +18,9 @@ public class DateUtils {
 	{
 		//some last changes for business logic 
 	}
+	
+	public static void main(String args[])
+	{
+	}
 
 }
