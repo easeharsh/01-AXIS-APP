@@ -1,7 +1,12 @@
 public class DateUtils {
 
+
 	//Bug-193
 	public void newChanges()
+
+	//Bug 190 changes
+	public void doProcess()
+
 	{
 	
 	}
