@@ -17,5 +17,9 @@ public class DateUtils {
 	DateUtils()
 	{
 	}
+	
+	public static void main(String args[])
+	{
+	}
 
 }
