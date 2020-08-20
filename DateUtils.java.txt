@@ -1,6 +1,10 @@
 public class DateUtils {
 
 
+	public static void main(String args[])
+	{
+	}
+
 	//Bug-193
 	public void newChanges()
 
@@ -18,8 +22,5 @@ public class DateUtils {
 	{
 	}
 	
-	public static void main(String args[])
-	{
-	}
-
+	
 }
