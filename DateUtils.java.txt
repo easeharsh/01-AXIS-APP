@@ -8,7 +8,9 @@ public class DateUtils {
 	public void doProcess()
 
 	{
-	
+		// Nw changes what we did directly in repo.
+		int i=10;
+		j=20;
 	}
 
 }
