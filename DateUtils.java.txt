@@ -1,27 +1,6 @@
 public class DateUtils {
 
-	public static void main(String args[])
-	{
-	}
-
-
-	//Bug-193
-	public void newChanges()
-
-	//Bug 190 changes
-	public void doProcess()
-
-	{
-		// Nw changes what we did directly in repo.
-		int i=10;
-		j=20;
-	}
 	
-	//Changes in local repo
-	DateUtils()
-	{
-		//some last changes for business logic 
-	}
 	
 	
 }
