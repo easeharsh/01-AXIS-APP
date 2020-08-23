@@ -2,7 +2,17 @@ public class Demo {
 
 	Demo()
 	{
+
+		//Feature-405
+		public String RESTURL ="Https://"
+	}
+	
+	public static void main(String[] args)
+	{
+	
+
 		Feature-201
 		HashSet set = new HashSet<>;
+
 	}
 }
